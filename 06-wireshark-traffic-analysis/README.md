@@ -1,4 +1,4 @@
-# Q6 — Network Traffic Analysis: Wireshark
+# Network Traffic Analysis: Wireshark
 
 **Goal:** capture live traffic on a target Linux host and use Wireshark to identify the signature of an active port scan.
 
