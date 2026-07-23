@@ -1,4 +1,4 @@
-# Q9 — Incident Response: Email Compromise (Phishing Triage)
+# Incident Response: Email Compromise (Phishing Triage)
 
 **Goal:** analyze a reported suspicious email for header forgery and malicious infrastructure, and reach a verdict.
 
