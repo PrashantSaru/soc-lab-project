@@ -1,4 +1,4 @@
-# Q1 — Wazuh: Brute Force Detection
+# Wazuh: Brute Force Detection
 
 **Goal:** simulate a dictionary-based RDP brute-force attack and confirm the Wazuh SIEM detects, correlates, and escalates it correctly.
 
