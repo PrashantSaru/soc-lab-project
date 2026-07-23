@@ -1,4 +1,4 @@
-# Q2 — Windows + Sysmon: Process Analysis
+# Windows + Sysmon: Process Analysis
 
 **Goal:** simulate a suspicious process execution and use Sysmon telemetry to trace process lineage and command-line arguments.
 
