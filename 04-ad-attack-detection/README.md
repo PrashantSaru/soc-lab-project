@@ -1,4 +1,4 @@
-# Q4 — Active Directory: Attack Detection (Account Lockout)
+# Active Directory: Attack Detection (Account Lockout)
 
 **Goal:** simulate a brute-force credential attack against a domain account and trace the resulting lockout through Domain Controller security logs.
 
