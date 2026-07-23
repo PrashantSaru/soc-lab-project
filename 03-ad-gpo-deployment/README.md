@@ -1,4 +1,4 @@
-# Q3 — Active Directory: GPO Deployment
+# Active Directory: GPO Deployment
 
 **Goal:** enforce a Control Panel restriction across a scoped OU using Group Policy, and verify it actually applies on a domain-joined client.
 
