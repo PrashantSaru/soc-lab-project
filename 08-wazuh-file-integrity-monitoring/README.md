@@ -1,4 +1,4 @@
-# Q8 — Wazuh: File Integrity Monitoring (FIM)
+# Wazuh: File Integrity Monitoring (FIM)
 
 **Goal:** configure real-time File Integrity Monitoring on a Windows endpoint and confirm Wazuh detects and alerts on an unauthorized modification.
 
