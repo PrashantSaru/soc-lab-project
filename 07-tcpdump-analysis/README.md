@@ -1,4 +1,4 @@
-# Q7 — Network Analysis: tcpdump
+# Network Analysis: tcpdump
 
 **Goal:** capture and analyze raw network traffic from the command line and identify indicators of reconnaissance activity.
 
