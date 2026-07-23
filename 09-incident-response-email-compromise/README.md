@@ -20,7 +20,7 @@
 | DKIM | **FAIL** | Signing domain is completely unrelated to the visible "from" domain |
 | DMARC | **FAIL** | Since SPF and DKIM both fail alignment, DMARC fails by definition |
 
-![Email header metadata showing sender/signing domain misalignment](screenshots/figure18-email-header-metadata.jpg)
+![Email header metadata showing sender/signing domain misalignment](screenshots/Screenshot%202026-07-23%20111413.png)
 
 ## Indicators of compromise
 
