@@ -1,4 +1,4 @@
-# Q10 — Full Incident Response Scenario
+# Full Incident Response Scenario
 
 **Goal:** run a complete detection-through-recovery incident response exercise, correlating Wazuh SIEM, Windows Security logs, and network flow logs into a single attack timeline.
 
