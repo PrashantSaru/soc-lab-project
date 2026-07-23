@@ -1,4 +1,4 @@
-# Q5 — Linux Monitoring: Authentication Analysis
+#  Linux Monitoring: Authentication Analysis
 
 **Goal:** simulate both unauthorized and authorized SSH logins, and extract the forensic markers that separate them in `/var/log/auth.log`.
 
